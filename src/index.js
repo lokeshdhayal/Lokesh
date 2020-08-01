@@ -1,4 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Header from './components/Header'
-ReactDOM.render(<Header />,document.getElementById('root'))
+const App =() => {
+return(<h1>Lokesh</h1>)
+}
+ReactDOM.render(<App />,document.getElementById('root'))
