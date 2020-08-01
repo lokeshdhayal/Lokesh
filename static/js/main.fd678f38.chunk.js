@@ -1,0 +1,2 @@
+(this.webpackJsonpassignment1=this.webpackJsonpassignment1||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n);var s=t(0),r=t.n(s),a=t(2),o=function(){return r.a.createElement("h1",null,"Lokesh")};t.n(a).a.render(r.a.createElement(o,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.fd678f38.chunk.js.map

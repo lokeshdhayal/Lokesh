@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/lokesh/static/js/main.5ea685a4.chunk.js",
-    "main.js.map": "/lokesh/static/js/main.5ea685a4.chunk.js.map",
+    "main.js": "/lokesh/static/js/main.fd678f38.chunk.js",
+    "main.js.map": "/lokesh/static/js/main.fd678f38.chunk.js.map",
     "runtime-main.js": "/lokesh/static/js/runtime-main.eda67b76.js",
     "runtime-main.js.map": "/lokesh/static/js/runtime-main.eda67b76.js.map",
-    "static/js/2.76b9247d.chunk.js": "/lokesh/static/js/2.76b9247d.chunk.js",
-    "static/js/2.76b9247d.chunk.js.map": "/lokesh/static/js/2.76b9247d.chunk.js.map",
+    "static/js/2.244a980d.chunk.js": "/lokesh/static/js/2.244a980d.chunk.js",
+    "static/js/2.244a980d.chunk.js.map": "/lokesh/static/js/2.244a980d.chunk.js.map",
     "index.html": "/lokesh/index.html",
-    "precache-manifest.1b5b818d07713b4e10baf3301db21b85.js": "/lokesh/precache-manifest.1b5b818d07713b4e10baf3301db21b85.js",
+    "precache-manifest.6b28f89201bd47fca855671b538c12d0.js": "/lokesh/precache-manifest.6b28f89201bd47fca855671b538c12d0.js",
     "service-worker.js": "/lokesh/service-worker.js",
-    "static/js/2.76b9247d.chunk.js.LICENSE.txt": "/lokesh/static/js/2.76b9247d.chunk.js.LICENSE.txt"
+    "static/js/2.244a980d.chunk.js.LICENSE.txt": "/lokesh/static/js/2.244a980d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eda67b76.js",
-    "static/js/2.76b9247d.chunk.js",
-    "static/js/main.5ea685a4.chunk.js"
+    "static/js/2.244a980d.chunk.js",
+    "static/js/main.fd678f38.chunk.js"
   ]
 }
